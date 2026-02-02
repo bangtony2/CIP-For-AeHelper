@@ -19,7 +19,7 @@
     "buttonOrder": "[\"amv\",\"anchor\",\"cache\",\"render\",\"quit\",\"preset_1769821636682_1\",\"preset_1769822561883_2\",\"preset_1769822751664_3\",\"preset_1769822782097_4\",\"preset_1769822806270_5\",\"preset_1769822858777_6\",\"preset_1769823129971_7\",\"preset_1769823167067_8\",\"preset_1769823513651_9\",\"preset_1769865114625_1\",\"preset_1769865505073_2\",\"preset_1769865675953_3\"]",
     "preset_1769865114625_1Name": "CC1",
     "preset_1769823513651_9Visible": "true",
-    "buttonShadow": "true",
+    "buttonShadow": "false",
     "preset_1769823129971_7Name": "7 Vignette",
     "preset_1769822858777_6Name": "6 Toner",
     "amvShutterPhase": "15",
@@ -55,7 +55,7 @@
     "preset_1769822751664_3Name": "3 TD",
     "quitIcon": "https://cdn-icons-png.flaticon.com/512/4043/4043266.png",
     "cacheIcon": "https://i.imgur.com/2OhtH6V.png",
-    "buttonBorder": "true",
+    "buttonBorder": "false",
     "preset_1769822561883_2Name": "2 S_Shake",
     "cacheColor": "#494949",
     "preset_1769823167067_8Icon": "https://cdn-icons-png.flaticon.com/512/2917/2917995.png",
@@ -89,7 +89,7 @@
     "anchorColor": "#003e85",
     "presetButtonHeight": "20",
     "preset_1769823167067_8DisplayType": "text",
-    "buttonGradient": "true",
+    "buttonGradient": "false",
     "preset_1769822858777_6Visible": "true",
     "preset_1769823513651_9DisplayType": "text",
     "preset_1769822561883_2Icon": "https://cdn-icons-png.flaticon.com/512/2917/2917995.png",
@@ -130,3 +130,4 @@
     "preset_1769822782097_4Color": "#211a47"
   }
 }
+
